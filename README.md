@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>Mechatronic Engineering & Computer Science graduate from UNSW. Systems and design enthusiast. Founder. </p>
-</div>s
+</div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
