@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gabe.;Welcome+to..;..my+Github.;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gabe.;Welcome+to..;..my+Github.;" alt="Typing SVG"/></h1>
 </div>
 
 <div align="center">
@@ -9,11 +9,14 @@
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my linkedin below. I know everyone enjoys a quick linkedin snoop, including myself! Feel free to reach out :) </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-esquivel-9a65a4209/">
     <img src="https://img.shields.io/badge/GabrielEsquivel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.gabrielpesquivel.com">
+    <img src="https://img.shields.io/badge/Website-gabrielpesquivel.com-33FF33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/>
   </a>
   <a href="https://www.bootink.com">
     <img src="https://img.shields.io/badge/Bootink-000000?style=for-the-badge&logo=shopify&logoColor=white" alt="Bootink"/>
@@ -22,20 +25,20 @@
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">🌐 My contributions </h2>
-<p> This section highlights my recent contributions! If you'd like a quick peek at my personal website and other projects I have been working on recently, head over to my pinned repositories. </p>
+<h2 align="center">🌐 My contributions </h2>
+<p> This section highlights my recent contributions! For a quick peek at my <a href="https://www.gabrielpesquivel.com">personal website</a> and other projects I have been working on recently, head over to my pinned repositories. </p>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielpesquivel&theme=github_dark" alt="Gabe's GitHub Stats"/>
 </div>
 
-<h2 align="center" class="section-heading">🐟 My Koi</h2>
+<h2 align="center">🐟 My Koi</h2>
 <p> A pixel-art koi drawn nightly from my GitHub activity by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>. </p>
 <div align="center">
     <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/>
 </div>
 </div>
 
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<h2 align="center">💻 Programming Languages</h2>
 <p> Languages I have a strong working understanding of. </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -49,7 +52,7 @@
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab"/>
 </div>
 
-<h2 align="center" class="section-heading">🔧 Frameworks & Technologies</h2>
+<h2 align="center">🔧 Frameworks & Technologies</h2>
 <p>Frameworks and tools are the backbone of my development process. As I continue my programming journey, I am focusing on increasing my working understanding in AI/Data Science and Full Stack Development. </p>
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
