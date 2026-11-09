@@ -24,6 +24,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielpesquivel&theme=github_dark" alt="Gabe's GitHub Stats"/>
 </div>
 
+<h2 align="center" class="section-heading">🐟 My Koi</h2>
+<p> A pixel-art koi drawn nightly from my GitHub activity by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>. </p>
+<div align="center">
+    <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/>
+</div>
+
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> Thus far into my academic career, I have developed a strong working understanding of the following languages. </p>
 <div align="center">
