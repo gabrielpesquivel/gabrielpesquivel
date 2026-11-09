@@ -1,11 +1,11 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gabe.;Welcome+to..;..my+Github.;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Mechatronic Engineering & Computer Science graduate from UNSW. Systems and design enthusiast. Founder. </p>
+    <p>Mechatronic Engineering & Computer Science graduate from UNSW. Systems and design enthusiast.</p>
+    <p>Founder of <a href="https://www.bootink.com">Bootink</a>, where I'm currently building the website and our internal tooling.</p>
 </div>
 
 <div align="center">
@@ -15,6 +15,10 @@
   <a href="https://www.linkedin.com/in/gabriel-esquivel-9a65a4209/">
     <img src="https://img.shields.io/badge/GabrielEsquivel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.bootink.com">
+    <img src="https://img.shields.io/badge/Bootink-000000?style=for-the-badge&logo=shopify&logoColor=white" alt="Bootink"/>
+  </a>
+</div>
 </div>
 
 <div align="center">
@@ -29,9 +33,10 @@
 <div align="center">
     <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/>
 </div>
+</div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> Thus far into my academic career, I have developed a strong working understanding of the following languages. </p>
+<p> Languages I have a strong working understanding of. </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
