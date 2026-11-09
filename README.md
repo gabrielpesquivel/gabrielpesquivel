@@ -1,16 +1,15 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gabe.;Welcome+to..;..my+Github.;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gabe.;Co-Founder+@+Bootink.;Welcome+to+my+GitHub.;" alt="Typing SVG"/></h1>
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Mechatronic Engineering & Computer Science graduate from UNSW. Systems and design enthusiast.</p>
-    <p>Founder of <a href="https://www.bootink.com">Bootink</a>, where I'm currently building the website and our internal tooling.</p>
+    <p>Co-Founder & COO of <a href="https://www.bootink.com">Bootink</a>, currently building our website and internal tooling. Mechatronic Engineering & Computer Science graduate from UNSW, with a soft spot for systems and design.</p>
 </div>
 
 <div align="center">
 <h2 align="center">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my linkedin below. I know everyone enjoys a quick linkedin snoop, including myself! Feel free to reach out :) </p>
+<p>Always happy to chat, so feel free to reach out.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-esquivel-9a65a4209/">
     <img src="https://img.shields.io/badge/GabrielEsquivel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -48,7 +47,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://www.gabrielpesquivel.com">Personal Website</a></h3>
       <p>My portfolio site, with more on my projects and background.</p>
-      <p><code>JavaScript</code> <code>Svelte</code></p>
+      <p><code>React</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
